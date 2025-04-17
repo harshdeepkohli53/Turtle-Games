@@ -38,29 +38,29 @@ This report considered the following main questions:
 1. K means clustering of income and spending score showed possibilities of 5 different customer groups:
 
 Cluster 0 (Blue) - High Income, High Spending Score - "Luxury Enthusiasts" (18% of customers)
-• Summary: Customers in this group have high remuneration (~ 60k€-105k€) and high spending scores (~ 60-100).
-• Insight: Likely represents high-value customers who have significant purchasing power and spend a lot.
-• Action: VIP customer service, premium loyalty programs, exclusive offers.
+- Summary: Customers in this group have high remuneration (~ 60k€-105k€) and high spending scores (~ 60-100).
+- Insight: Likely represents high-value customers who have significant purchasing power and spend a lot.
+- Action: VIP customer service, premium loyalty programs, exclusive offers.
 
 Cluster 1 (Orange) - Medium to Low Income, Medium Spending Score - "Value Seekers" (39% of customers)
-• Summary: This cluster has remuneration ranging from ~30k€-60k€ and spending scores between ~40-60.
-• Insight: Represents the general consumer group, spending moderately.
-• Action: Marketing Strategy: Regular promotions, discounts, and personalized offers to encourage loyalty.
+- Summary: This cluster has remuneration ranging from ~30k€-60k€ and spending scores between ~40-60.
+- Insight: Represents the general consumer group, spending moderately.
+- Action: Marketing Strategy: Regular promotions, discounts, and personalized offers to encourage loyalty.
 
 Cluster 2 (Green) - High Income, Low Spending Score - "Practical Professionals" (17% of customers)
-• Summary: Customers here have high remuneration (~ 60k€-105k€) but low spending scores (~ 0-40).
-• Insight: These customers can afford to spend but choose not to.
-• Action: Marketing Strategy: Investigate barriers to spending (e.g., preferences, brand perception), offer tailored promotions.
+- Summary: Customers here have high remuneration (~ 60k€-105k€) but low spending scores (~ 0-40).
+- Insight: These customers can afford to spend but choose not to.
+- Action: Marketing Strategy: Investigate barriers to spending (e.g., preferences, brand perception), offer tailored promotions.
 
 Cluster 3 (Red) - Low Income, High Spending Score - "Aspirational Shoppers" (13% of customers)
-• Summary: Customers in this group have low remuneration (~ 10k€-30k€) but high spending scores (~ 60-100)
-• Insight: They may prioritize discretionary spending despite a lower income.
-• Action: Marketing Strategy: Payment plans, installment options, or budget-friendly product lines.
+- Summary: Customers in this group have low remuneration (~ 10k€-30k€) but high spending scores (~ 60-100)
+- Insight: They may prioritize discretionary spending despite a lower income.
+- Action: Marketing Strategy: Payment plans, installment options, or budget-friendly product lines.
 
 Cluster 4 (Purple) - Low Income, Low Spending Score - "Budget-Conscious Consumers" (14% of customers)
-• Summary: Customers in this group have low remuneration (~ 10k€-30k€) and low spending scores (~ 5-40).
-• Insight: They are budget-conscious and spend very little.
-• Action: Marketing Strategy: Cost-effective deals, discounts, and affordability-focused promotions.
+- Summary: Customers in this group have low remuneration (~ 10k€-30k€) and low spending scores (~ 5-40).
+- Insight: They are budget-conscious and spend very little.
+- Action: Marketing Strategy: Cost-effective deals, discounts, and affordability-focused promotions.
 
 
 ![kmeans final](https://github.com/user-attachments/assets/0dd0ebec-0f87-4410-8013-10889b332f5a)
