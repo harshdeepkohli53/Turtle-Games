@@ -3,6 +3,8 @@ Turtle Games - Advanced analytics for organisational impact
 
 Project Summary: In this 6 week analytics project, my objective was to investigate customer loyalty and optimise sales performance for Turtle Games,  a global gaming retailer and manufacturer. I leveraged predictive modelling (linear regression, K means clustering) and machine learning (natural language processing) to help me complete this project. 
 
+Tools used: Python & R
+
 The business problem I identified centres around underperforming sales performance at Turtle Games.
 
 This report considered the following main questions:
