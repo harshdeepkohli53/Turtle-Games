@@ -1,4 +1,4 @@
-# Turtle Games (Final Grade: 94%)
+# Turtle Games (Final Grade: High Distinction)
 Turtle Games - Advanced analytics for organisational impact
 
 Project Summary: In this 6 week analytics project, my objective was to investigate customer loyalty and optimise sales performance for Turtle Games,  a global gaming retailer and manufacturer. I leveraged predictive modelling (linear regression, K means clustering) and machine learning (natural language processing) to help me complete this project. 
